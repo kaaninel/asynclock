@@ -1,0 +1,31 @@
+{
+  "name": "asynclock",
+  "version": "1.0.0",
+  "description": "A helper for pausing functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaaninel/asynclock.git"
+  },
+  "keywords": [
+    "promise",
+    "await",
+    "async",
+    "function",
+    "pause",
+    "lock",
+    "unlock",
+    "wait",
+    "sleep",
+    "socket"
+  ],
+  "author": "Kaan Inel <kaaninel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaaninel/asynclock/issues"
+  },
+  "homepage": "https://github.com/kaaninel/asynclock#readme"
+}
