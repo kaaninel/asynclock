@@ -30,3 +30,13 @@ const test = async function(){
 
 test();
 ```
+
+Library
+```js
+{
+    Lock: function(Id){}, // (Promise) call when you need to pause
+    UnLock: function(Id, Value){} // (undefined) call when you need to continue
+}
+```
+
+Id can be any javascript object key. 
